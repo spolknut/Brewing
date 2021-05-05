@@ -34,3 +34,23 @@
 - [ ] Hops / Kettle Addition: ________________________________________________ &emsp; &emsp; @time ______________
 - [ ] Hops / Kettle Addition: ________________________________________________ &emsp; &emsp; @time ______________
 - [ ] With 15 minutes left, submerge wort chiller (if using immersion chiller)
+
+## Final Steps
+
+- [ ] Sanitize lid of kettle.
+- [ ] Flame out.
+- [ ] Add any final hop additions or kettle ingredients.
+- [ ] Note wort volume  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Post-boil wort volume__________________
+- [ ] Set lid on kettle, activate wort chiller.
+- [ ] Begin sanitizing primary fermenter, cork, air lock, aeration stone/hose, funnel, wine thief.
+- [ ] When wort is cooled to target temperature, transfer wort into fermenter.
+- [ ] Aerate wort with aeration stone (or aerate by shaking, rocking, stirring)
+- [ ] Take hydrometer sample, record the value. &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &nbsp; OG __________________
+- [ ] Pitch yeast. &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; Collected volume  __________________
+- [ ] Fit with airlock or blow off tube for high gravity or dark beers.
+- [ ] Move fermenter to temperature stable area protected from light.
+- [ ] Clean up equipment.
+
+## Racking
+
+## Bottling
