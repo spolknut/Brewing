@@ -1,12 +1,12 @@
 # Brew Day Checklist
 
-**Brewer** __________________________________________&emsp;Brew date __________________________________________
+**Brewer** __________________________________________&emsp;**Brew date** __________________________________________
 
-**Receipe Name** __________________________________&emsp;Brew type __________________________________________
+**Receipe Name** __________________________________&emsp;**Brew type** __________________________________________
 
 ## Setup and Mash
 
-- [ ] Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable.
+- [ ] Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable
 - [ ] Setup mash tun and kettle and ensure they are clean
 - [ ] Check hose clamps and ,ake sure valves are closed on mash tun  
 - [ ] Begin heating strike water
@@ -18,6 +18,8 @@
 - [ ] Take yeast out of fridge if using liquid ale yeast
 - [ ] Measure pH &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; pH _____________
 - [ ] Adjust pH if needed &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Lactic 80% [ml] _____________ &emsp;pH _____________
+
+<br/>
 
 ## Sparge and Boil
 
@@ -40,6 +42,8 @@
 - [ ] Hops / Kettle Addition: ________________________________________________ &emsp; &emsp; @time ______________
 - [ ] With 15 minutes left, submerge wort chiller (if using immersion chiller)
 
+<br/>
+
 ## Final Steps
 
 - [ ] Sanitize lid of kettle
@@ -50,14 +54,16 @@
 - [ ] Sanitize fermenter, cork, air lock, hose
 - [ ] When wort is cooled to target temperature, transfer fermenter&emsp; End Cooling Time _____________
 - [ ] Aerate wort (aerate by shaking, rocking, stirring)
-- [ ] Take hydrometer sample, record the value. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;OG _____________
-- [ ] Pitch yeast. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Collected volume [l] _____________
+- [ ] Take hydrometer sample, record the value &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; OG _____________
+- [ ] Pitch yeast &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;Collected volume [l] _____________
 - [ ] Fit with airlock or blow off tube for high gravity or dark beers
 - [ ] Move fermenter to temperature stable area protected from light
-- [ ] Clean up equipment.
+- [ ] Clean up equipment
 
 ## Fermentation
-- [ ] Optional – 'cold crash' &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Days _____________
+- [ ] Temperature [C] _____________ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Date _____________ &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Days _____________
+- [ ] Temperature [C] _____________ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Date _____________ &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Days _____________
+- [ ] Cold crash temperature [C] _____________ &emsp;&ensp;&ensp;&ensp;Date _____________ &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Days _____________
 
 
 ## Bottling
@@ -70,6 +76,6 @@
 - [ ] Sanitize racking cane, hose, bottling bucket and spoon
 - [ ] Add priming sugar
 - [ ] Optional - Carefully rack beer into bottling bucket
-- [ ] Siphon beer into bottles.
+- [ ] Siphon beer into bottles
 - [ ] Save a sample for tasting and final gravity&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Final Gravity: _____________
 - [ ] Cap and mark bottles
