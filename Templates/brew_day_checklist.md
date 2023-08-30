@@ -8,11 +8,12 @@
 
 - [ ] Double check all ingredients are on hand for recipe, including prepared yeast starter if applicable
 - [ ] Setup mash tun and kettle and ensure they are clean
-- [ ] Check hose clamps and ,ake sure valves are closed on mash tun  
+- [ ] Check hose clamps and make sure valves are closed on mash tun  
 - [ ] Begin heating strike water
 - [ ] Add brewing salts as recipe calls for or to style
 - [ ] Weigh out and mill grains
 - [ ] When strike water is ready, begin dough-in procedure and mash
+- [ ] Turn on pump for recirculation, start slow and adjust flow as necessary
 - [ ] Monitor mash temperature during mash and adjust as necessary
 - [ ] Start heating water for sprage
 - [ ] Take yeast out of fridge if using liquid ale yeast
@@ -23,11 +24,11 @@
 
 ## Sparge and Boil
 
-- [ ] Vorlauf (drain mash tun until runnings are clear and pour back into mash tun)
+- [ ] Lift up mash tun and let drain
 - [ ] Start heating to boil, set target temperature for 100 C
 - [ ] Add sparge water to mash and let it drain &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  Pre-boil volume [l] _____________
 - [ ] Take a gravity reading &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Pre-boil gravity _____________
-- [ ] Turn of pump; not required during boil
+- [ ] Turn of pump; not required during boil and 
 - [ ] Start timer when boil starts &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; Boil start time _____________
 - [ ] Prepare primary fermentor with sanitizer
 - [ ] Prepare wort chiller
@@ -47,7 +48,7 @@
 ## Final Steps
 
 - [ ] Sanitize lid of kettle
-- [ ] Flame out
+- [ ] Flame out, turn off heat 
 - [ ] Add any final hop additions or kettle ingredients
 - [ ] Note wort volume  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Post-boil volume [l] _____________
 - [ ] Set lid on kettle, activate wort chiller &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;Start Cooling Time _____________
